@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "3.2",
+    "versionCode": 19,
+    "date": "2026-11-13",
+    "size": 7238710,
+    "file": "apk/OBD-DAX-3.2.apk",
+    "notes": "Diseño más legible y cómodo en el carro.\n• Valores en vivo más grandes (32 sp); la gráfica fijada se marca con 📈.\n• Botón \"Detener\" y todas las opciones con área táctil de 48 dp.\n• Banner \"En pausa\" legible (texto oscuro sobre naranja).\n• Rojo de error, azul y gris con mejor contraste; botones con borde para distinguirlos del fondo.\n• Barra inferior con texto más grande; espaciados unificados.\n• Rutas: si dos rutas difieren menos de 2 %, se indica empate en lugar de marcar una como mejor."
+  },
+  {
     "versionName": "3.1",
     "versionCode": 18,
     "date": "2026-11-13",
