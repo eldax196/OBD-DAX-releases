@@ -1,0 +1,10 @@
+[
+  {
+    "versionName": "3.0",
+    "versionCode": 17,
+    "date": "2026-11-13",
+    "size": 7209034,
+    "file": "apk/OBD-DAX-3.0.apk",
+    "notes": "Primera versión estable con el nombre OBD DAX.\n• Nuevo nombre e ícono propio (medidor).\n• Buscar actualizaciones desde Ajustes → Actualizaciones.\n• Ir atrás con el botón ←, el gesto del sistema o deslizando a la derecha.\n• Gráficas: mapa de calor de dos variables, viaje a elegir en \"En el tiempo\", imagen con título, filtros y ecuación, ejes desde 0.\n• \"Sin cortes\" también quita las transiciones de los cortes de combustible.\n• Calibración de la eficiencia volumétrica con llenados de tanque.\n• Rutas: comparar franjas y rutas específicas; costo combinado por franja."
+  }
+]
