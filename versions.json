@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "3.1",
+    "versionCode": 18,
+    "date": "2026-11-13",
+    "size": 7236742,
+    "file": "apk/OBD-DAX-3.1.apk",
+    "notes": "Importación de grabaciones mejorada.\n• Puedes elegir varios archivos a la vez.\n• Acepta también el CSV guardado desde Excel (.xlsx, o .csv con punto y coma).\n• Si el archivo ya estaba cargado, te pregunta: viaje nuevo aparte, reemplazar (conserva la ruta) u omitir.\n• Al importar vuelves a la lista; el viaje queda sin ruta para asignarla después.\n• El viaje usa la fecha de la grabación, no la de la importación."
+  },
+  {
     "versionName": "3.0",
     "versionCode": 17,
     "date": "2026-11-13",
