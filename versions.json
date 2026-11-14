@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "3.3",
+    "versionCode": 20,
+    "date": "2026-11-14",
+    "size": 7242670,
+    "file": "apk/OBD-DAX-3.3.apk",
+    "notes": "Segunda revisión de diseño.\n• Filas de botones con más separación entre sí.\n• Las opciones bajan a otra línea en lugar de cortarse.\n• Ejes de las gráficas más claros.\n• Ajustes se abre con el ícono de engranaje.\n• El botón de grabar se muestra desactivado cuando no se puede usar.\n• Con km/L o mpg la variable se llama \"Rendimiento\"; con L/100 km, \"Consumo por distancia\"."
+  },
+  {
     "versionName": "3.2",
     "versionCode": 19,
     "date": "2026-11-13",
