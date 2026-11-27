@@ -1,0 +1,10 @@
+[
+  {
+    "versionName": "4.0-e1.8",
+    "versionCode": 31,
+    "date": "2026-11-27",
+    "size": 24471736,
+    "file": "apk/prueba/OBD-DAX-4.0-e1.8.apk",
+    "notes": "Prueba: elegir cómo se ve la duración.\n• Ajustes → Unidades → Duración de viajes: \"14:17\" o \"14 min 17 s\" (más de una hora: \"1 h 05 min\").\n• El cronómetro de la barra de grabación sigue como reloj.\n• Incluye todo lo de la 4.0-e1.7."
+  }
+]
