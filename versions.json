@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.2",
+    "versionCode": 25,
+    "date": "2026-11-27",
+    "size": 24363007,
+    "file": "apk/OBD-DAX-4.0-e1.2.apk",
+    "notes": "Modo claro, lugares y ventanas más pequeñas.\n• Ajustes → Apariencia: Automático (sigue al teléfono), Noche cálida u Niebla (claro).\n• Las ventanas de adaptador, Grabar y lugares salen flotando en el centro, más pequeñas.\n• Viajes → Rutas → Mis lugares: guarda Casa, Trabajo, etc. con su ícono. Si grabas con GPS de un lugar a otro, la app te sugiere la ruta; a la tercera vez te ofrece asignarla sola.\n• Grabar se anima para que se vea; Parar se mantiene presionado; al terminar aparece \"✓ Guardado\".\n• Demostración: una lectura cada 5 s, se puede grabar (queda como Prueba y no cuenta) y hay un botón Salir visible.\n• Actualizaciones: botón Buscar de nuevo.\n• Ícono en coral."
+  },
+  {
     "versionName": "4.0-e1.1",
     "versionCode": 24,
     "date": "2026-11-27",
