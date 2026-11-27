@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.1",
+    "versionCode": 24,
+    "date": "2026-11-27",
+    "size": 24164379,
+    "file": "apk/OBD-DAX-4.0-e1.1.apk",
+    "notes": "Ajustes a la nueva imagen.\n• Diagnóstico pasa a ser la segunda pestaña.\n• Gráficas: primero \"En el tiempo\", luego Histograma, Comparar viajes y Correlación (antes \"X vs Y\").\n• Los hallazgos y el historial dicen \"registros\" en vez de \"filas\".\n• Modo demostración (temporal): mantén presionado Conectar y elige \"Probar sin adaptador\" para ver la app con un carro simulado (no graba)."
+  },
+  {
     "versionName": "4.0-e1",
     "versionCode": 23,
     "date": "2026-11-27",
