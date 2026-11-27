@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.7",
+    "versionCode": 30,
+    "date": "2026-11-27",
+    "size": 24471736,
+    "file": "apk/OBD-DAX-4.0-e1.7.apk",
+    "notes": "Versiones de prueba desde la app.\n• Ajustes → Actualizaciones → Qué versiones mostrar: \"Solo estables\" o \"También de prueba 🧪\". Las de prueba traen lo más nuevo pero aún no se han probado en el carro (bajo tu riesgo); la app te avisa al activarlo.\n• Las de prueba se instalan encima de la que tienes, sin perder tus viajes."
+  },
+  {
     "versionName": "4.0-e1.6",
     "versionCode": 29,
     "date": "2026-11-27",
