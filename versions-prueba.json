@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.10",
+    "versionCode": 33,
+    "date": "2026-11-27",
+    "size": 24471736,
+    "file": "apk/prueba/OBD-DAX-4.0-e1.10.apk",
+    "notes": "Prueba: tiempos más largos entre lecturas.\n• Ajustes → Lectura del carro: ahora también 5 s, 10 s y 30 s (para probar si las alarmas del carro tienen que ver con las consultas). Con 5 s o más, distancia, consumo y mapa salen menos precisos.\n• Los viajes grabados con intervalos largos ya no salen con 0 km.\n• \"lecturas/s\" en En vivo muestra el ritmo real, contando la pausa.\n• Incluye todo lo de la 4.0-e1.9."
+  },
+  {
     "versionName": "4.0-e1.9",
     "versionCode": 32,
     "date": "2026-11-27",
