@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.5",
+    "versionCode": 28,
+    "date": "2026-11-27",
+    "size": 24471736,
+    "file": "apk/OBD-DAX-4.0-e1.5.apk",
+    "notes": "GPS, mapa en vivo y lugares a la vista.\n• Arreglo: la app no abría en algunos teléfonos Xiaomi (HyperOS).\n• El GPS viene encendido y se cambia de un toque con la ficha 📍 GPS en En vivo.\n• Mapa en vivo con tu posición, el recorrido y tus lugares con su radio, también sin el adaptador conectado. El punto ya no salta cuando estás detenido.\n• Ficha 🏠 Mis lugares: ver tus lugares en un mapa, editarlos y agregar nuevos; el botón Guardar siempre a la vista.\n• Buscador de direcciones en Elegir en el mapa (OpenStreetMap), hasta 100 km a la redonda.\n• Para manejar: botón Parar grande al grabar y botones Pausa y Marcar más grandes.\n• Ícono nuevo y animaciones: Grabar, Conectar, Parar y tu punto en el mapa laten con ondas."
+  },
+  {
     "versionName": "4.0-e1.3",
     "versionCode": 26,
     "date": "2026-11-27",
