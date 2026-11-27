@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.3",
+    "versionCode": 26,
+    "date": "2026-11-27",
+    "size": 24364095,
+    "file": "apk/OBD-DAX-4.0-e1.3.apk",
+    "notes": "Lugares más confiables.\n• Al guardar un lugar con \"Estoy aquí ahora\", si la ubicación tiene un error de más de 100 m la app te avisa y te sugiere acercarte a una ventana, salir al aire libre o elegir el punto en el mapa.\n• Si Android te pregunta, elige ubicación Precisa."
+  },
+  {
     "versionName": "4.0-e1.2",
     "versionCode": 25,
     "date": "2026-11-27",
