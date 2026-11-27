@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.9",
+    "versionCode": 32,
+    "date": "2026-11-27",
+    "size": 24471736,
+    "file": "apk/prueba/OBD-DAX-4.0-e1.9.apk",
+    "notes": "Prueba: elegir cada cuánto se lee el carro.\n• Ajustes → Lectura del carro → Tiempo entre lecturas: Máximo (sin pausa, como siempre), 0.5 s, 1 s o 2 s. Con pausa hay menos tráfico en la red del carro y menos registros por minuto al grabar.\n• Incluye todo lo de la 4.0-e1.8 (formato de la duración)."
+  },
+  {
     "versionName": "4.0-e1.8",
     "versionCode": 31,
     "date": "2026-11-27",
