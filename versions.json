@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.6",
+    "versionCode": 29,
+    "date": "2026-11-27",
+    "size": 24471732,
+    "file": "apk/OBD-DAX-4.0-e1.6.apk",
+    "notes": "Ícono nuevo y animaciones (si tenías una 4.0-e1.5 de prueba, esta es la que los trae).\n• Ícono nuevo: pin de ruta con medidor sobre fondo claro.\n• Grabar, Conectar, Parar y tu punto en el mapa laten con ondas.\n• Incluye todo lo de la 4.0-e1.5: arreglo para teléfonos Xiaomi (HyperOS), GPS encendido con ficha 📍, mapa en vivo con tus lugares, Mis lugares, buscador de direcciones hasta 100 km y botón Parar grande para manejar."
+  },
+  {
     "versionName": "4.0-e1.5",
     "versionCode": 28,
     "date": "2026-11-27",
