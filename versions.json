@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1",
+    "versionCode": 23,
+    "date": "2026-11-27",
+    "size": 24147055,
+    "file": "apk/OBD-DAX-4.0-e1.apk",
+    "notes": "Nueva imagen: estilo \"Noche cálida\" (primera etapa de la reinvención).\n• Al entrar, un botón grande \"Conectar\" que se conecta directo a tu último adaptador; mantenlo presionado para elegir otro.\n• Lista de adaptadores en una hoja inferior: nombre grande, el que ya usaste primero, Bluetooth o WiFi.\n• En vivo: 4 valores grandes y una gráfica; toca un valor para graficarlo, mantenlo presionado para cambiarlo, desliza para ver el resto.\n• Grabar de un toque con paquetes: Ahorro, Salud del motor, Todo o Manual (tu lista de antes queda como Manual).\n• Barra de grabación con Pausa, Marcar y Parar; tócala para ver los detalles.\n• 4 pestañas: En vivo, Viajes, Gráficas y Diagnóstico. Desconectar: toca el estado de conexión arriba. Batería en segundo plano: en Ajustes.\n• Si el adaptador no contesta, la espera baja a ~1 s y queda la marca \"sin respuesta\".\n• Lecturas imposibles (p. ej. refrigerante en 215 °C) se marcan con ⚠ y no se usan en gráficas ni cálculos; el análisis avisa \"Posible falla de medición\".\n• Privacidad: el archivo _info.txt solo guarda el final del VIN y hay un aviso al activar el GPS."
+  },
+  {
     "versionName": "3.3",
     "versionCode": 20,
     "date": "2026-11-14",
