@@ -1,5 +1,13 @@
 [
   {
+    "versionName": "4.0-e1.11",
+    "versionCode": 34,
+    "date": "2026-11-27",
+    "size": 24488120,
+    "file": "apk/prueba/OBD-DAX-4.0-e1.11.apk",
+    "notes": "Prueba: descargas de actualizaciones ordenadas.\n• Al tocar \"Descargar e instalar\" el botón cambia a \"Descargando…\" y no se puede volver a tocar; ya no se inician varias descargas a la vez.\n• Al terminar, el botón dice \"Instalar (ya descargada)\" y abre el instalador sin descargar otra vez. Si la descarga falla, dice \"Reintentar descarga\".\n• Incluye todo lo de la 4.0-e1.10 (tiempos de 5, 10 y 30 s)."
+  },
+  {
     "versionName": "4.0-e1.10",
     "versionCode": 33,
     "date": "2026-11-27",
